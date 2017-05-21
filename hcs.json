@@ -1,0 +1,39 @@
+{
+	"HCgroups": [
+		{ "name": "Characteristics of complex systems", 
+			"HCs": [
+				{"hashtag": "emergentproperties", "courseOfIntro": "Complex Systems"},
+				{"hashtag": "systemdynamics", "courseOfIntro": "Complex Systems"},
+				{"hashtag": "multipleagents", "courseOfIntro": "Complex Systems"},
+				{"hashtag": "levelsofanalysis", "courseOfIntro": "Complex Systems"},
+				{"hashtag": "multiplecauses", "courseOfIntro": "Complex Systems"},
+				{"hashtag": "networks", "courseOfIntro": "Complex Systems"}
+			]
+		},
+		{ "name": "Analyzing problems", 
+			"HCs": [
+				{"hashtag": "rightproblem", "courseOfIntro": "Empirical Analyses"},
+				{"hashtag": "gapanalysis", "courseOfIntro": "Empirical Analyses"},
+				{"hashtag": "breakitdown", "courseOfIntro": "Empirical Analyses"}
+			]
+		},
+		{ "name": "Formal representations", 
+			"HCs": [
+				{"hashtag": "variables", "courseOfIntro": "Formal Analyses"},
+				{"hashtag": "algorithms", "courseOfIntro": "Formal Analyses"},
+				{"hashtag": "simulation", "courseOfIntro": "Formal Analyses"},
+				{"hashtag": "gametheory", "courseOfIntro": "Formal Analyses"},
+				{"hashtag": "modeling", "courseOfIntro": "Empirical Analyses"}
+			]
+		},
+		{ "name": "Clarity", 
+			"HCs": [
+				{"hashtag": "thesis", "courseOfIntro": "Multimodal Communications"},
+				{"hashtag": "organization", "courseOfIntro": "Multimodal Communications"},
+				{"hashtag": "phrasing", "courseOfIntro": "Multimodal Communications"},
+				{"hashtag": "presentation", "courseOfIntro": "Multimodal Communications"},
+				{"hashtag": "connotation", "courseOfIntro": "Multimodal Communications"}
+			]
+		}
+	]
+}

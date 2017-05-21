@@ -1,0 +1,24 @@
+canvas {
+    border: 1px solid #ccc;
+}
+td {
+	vertical-align: top;
+}
+ul {
+	margin-left: -30px;
+}
+li.group {
+	font-family: 'Helvetica';
+	font-weight: bold;
+	font-size: 12px;
+	margin-left: 10px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+li.hc {
+	font-family: 'Helvetica';
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 20px;
+}
