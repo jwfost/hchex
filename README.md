@@ -1,3 +1,4 @@
+# HCHex
 Hexagonal grid tool for making combinations of HCs
 
 ## Purpose
